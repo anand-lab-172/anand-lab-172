@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anand-lab-172
+- 👋 Hi, I’m Anandaram G
 - 👀 I’m interested in Data handling and roles like Data Analyst, Ausiness Analyst, Data Engineer and Data Scientist 
 - 🌱 I’m currently learning Deep learning 
 - 💞️ I’m looking to collaborate on Impressive projects 
