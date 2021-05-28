@@ -4,4 +4,5 @@
 - 💞️ I’m looking to collaborate on Impressive projects 
 - 📫 How to reach me aero.172anand@gmail.com or aero.172anand@outlook.com
 - 🔗 https://www.linkedin.com/in/anandaram-g/  (LinkedIn)
-- My portfolio- https://anandaram.wixsite.com/portfolio
+- My portfolio: https://anandaram.wixsite.com/portfolio
+- Medium: anandlab.medium.com
