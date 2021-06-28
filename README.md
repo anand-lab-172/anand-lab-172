@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anandaram G
+- 👋 Hi, I’m Anandaram
 - 👀 I’m interested in Data handling and roles like Data Analyst, Business Analyst, Data Engineer and Data Scientist 
 - 🌱 I’m currently learning Deep learning 
 - 💞️ I’m looking to collaborate on Impressive projects 
