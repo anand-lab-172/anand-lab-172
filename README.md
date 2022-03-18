@@ -6,3 +6,5 @@
 - 🔗 https://www.linkedin.com/in/anandaram-g/  (LinkedIn)
 - My portfolio: https://anandaram.wixsite.com/portfolio
 - Medium: https://anandlab.medium.com
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=anand-lab-172&show_icons=true)
