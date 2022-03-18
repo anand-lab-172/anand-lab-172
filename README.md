@@ -8,7 +8,3 @@
 - Medium: https://anandlab.medium.com
 
   ![anand](https://github-readme-stats.vercel.app/api?username=anand-lab-172&show_icons=true)
-  
-  ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{anandaramg}/dataset)
-  ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{anandaramg}/notebook)
-  ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{anandaramg}/discussion)
