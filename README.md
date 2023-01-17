@@ -7,5 +7,5 @@
 - My portfolio: https://anandaram.wixsite.com/portfolio
 - Medium: https://anandlab.medium.com
 
-  ![anand](https://github-readme-stats.vercel.app/api?username=anand-lab-172&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anand-lab-172&show_icons=true&theme=radical)
+
+![Anand](https://github-readme-stats.vercel.app/api?username=anand-lab-172&show_icons=true&theme=radical)
