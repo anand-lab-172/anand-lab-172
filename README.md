@@ -8,4 +8,5 @@
 - Medium: https://anandlab.medium.com
 
 
-![Anand](https://github-readme-stats.vercel.app/api?username=anand-lab-172&show_icons=true&theme=radical)
+
+![Anand](https://github-readme-stats.vercel.app/api?username=anand-lab-172&show_icons=true&theme=tokyonight)
