@@ -1,4 +1,5 @@
-![image_processing20191213-6403-1j99nlm](https://user-images.githubusercontent.com/74824247/234762049-499ae4cc-0f2c-4615-9b94-41d59f40158c.gif)
+[![image_processing20191213-6403-1j99nlm](https://user-images.githubusercontent.com/74824247/234762049-499ae4cc-0f2c-4615-9b94-41d59f40158c.gif)
+](https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif)
 
 <h1 align="center">Hi 👋, I'm Anandaram Ganapathi</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
