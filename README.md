@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand-lab-172&label=Profile%20views&color=0e75b6&style=flat" alt="anand-lab-172" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently working in **Deep Learning**
 
 - 👨‍💻 All about me [https://anandaram.wixsite.com/portfolio](https://anandaram.wixsite.com/portfolio)
 
